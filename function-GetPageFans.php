@@ -1,7 +1,7 @@
 <?php
 
 function GetPageFans($p_page_id,$p_page_access_token,$p_start_date,$p_end_date){
-/*Get a list of messages posted by the page into facebook and insert those into database*/  
+/*Get a the numbers of page fans per day and insert those into database*/ 
 
 /***********************************************************************
 1. Create a file that will be used to store the results from the call to the Facebook Graph API.
