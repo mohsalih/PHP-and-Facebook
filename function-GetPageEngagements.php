@@ -1,7 +1,7 @@
 <?php
 
 function GetPageEngagements($p_page_id,$p_page_access_token,$p_start_date,$p_end_date){
-/*Get the numbers of page enagements per day and insert those into database*/
+/*Get the numbers of page engagements per day and insert those into database*/
 
 
 /***********************************************************
